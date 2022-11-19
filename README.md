@@ -1,2 +1,2 @@
-# tomo-one.github.com
+# tomo-one.github.io
 Das neue TOMO.ONE
