@@ -1,3 +1,24 @@
+/*
+    Colors:
+    =======
+
+    Name              |  HEX   |   RGB
+    ---------------------------------------
+    TOMO blaugrau	    44546A  068-084-106
+    TOMO hellgraublau   868e96  134-142-150
+    TOMO mittelblau	    5a7393	112-142-183
+    TOMO hellblau	    88aee3	136-174-227
+    TOMO schwarz	    222222	034-034-034
+    TOMO halbschwarz    343a40  052-058-064
+    TOMO weiß	        f2f2f2	242-242-242
+    TOMO lila	        8064a2	128-100-162
+    TOMO rot	        c00000	192-000-000
+    TOMO grün	        70ad47	112-173-071
+    TOMO dunkelgrau	    595959	089-089-089
+    TOMO mittelgrau	    a6a6a6	166-166-166
+*/
+
+
 body {
     color: #868e96
 }
@@ -9,12 +30,21 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    color: #343a40
+    color: #5a7393
 }
 
 
+.subheading {
+    text-transform: uppercase;
+}
+
+.social-icons a {
+    background-color: #44546a;
+    color: #f2f2f2 !important;
+}
+
 .social-icons a:hover {
-    background-color: #44546a
+    background-color: #5a7393
 }
 
 .dev-icons .list-inline-item i:hover {
@@ -22,7 +52,7 @@ h6 {
 }
 
 #sideNav .navbar-toggler:focus {
-    outline-color: #d48a6e
+    outline-color: #88aee3
 }
 
 .bg-primary {
@@ -30,7 +60,7 @@ h6 {
 }
 
 .text-primary {
-    color: #44546a !important
+    color: #44546A !important
 }
 
 a {
@@ -40,6 +70,6 @@ a {
 a:active,
 a:focus,
 a:hover {
-    color: #824027
+    color: #70ad47
 }
 
