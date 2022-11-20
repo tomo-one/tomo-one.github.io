@@ -1,0 +1,45 @@
+body {
+    color: #868e96
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    color: #343a40
+}
+
+
+.social-icons a:hover {
+    background-color: #44546a
+}
+
+.dev-icons .list-inline-item i:hover {
+    color: #44546a
+}
+
+#sideNav .navbar-toggler:focus {
+    outline-color: #d48a6e
+}
+
+.bg-primary {
+    background-color: #44546a !important
+}
+
+.text-primary {
+    color: #44546a !important
+}
+
+a {
+    color: #44546a
+}
+
+a:active,
+a:focus,
+a:hover {
+    color: #824027
+}
+
