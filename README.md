@@ -1,3 +1,3 @@
 # TOMO.ONE
 
-This is a homepage. Use http://tomo.one to see the content.
+This is the homepage of TOMO.ONE. Use http://tomo.one to see the content.
