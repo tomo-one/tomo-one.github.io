@@ -73,3 +73,16 @@ a:hover {
     color: #70ad47
 }
 
+/* Tabellenspalten-Breiten (ergänzt Bootstraps w-25/w-50/w-75/w-100) */
+.w-15 {
+    width: 15% !important
+}
+
+.w-60 {
+    width: 60% !important
+}
+
+.w-70 {
+    width: 70% !important
+}
+
