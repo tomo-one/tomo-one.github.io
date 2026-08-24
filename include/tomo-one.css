@@ -64,13 +64,20 @@ h6 {
 }
 
 a {
-    color: #44546a
+    color: #44546a;
+    text-decoration: underline
 }
 
 a:active,
 a:focus,
 a:hover {
     color: #70ad47
+}
+
+/* Navigationsleiste und Social-Icons bleiben ohne Unterstreichung */
+#sideNav a,
+.social-icons a {
+    text-decoration: none
 }
 
 /* Tabellenspalten-Breiten (ergänzt Bootstraps w-25/w-50/w-75/w-100) */
